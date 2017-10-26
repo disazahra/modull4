@@ -7,7 +7,7 @@ package Latihan3;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class PembayaranGaji {
     public int hitungGaji(Pegawai peg){

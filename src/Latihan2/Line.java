@@ -7,7 +7,7 @@ package Latihan2;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class Line implements Relation{
     private double x1;

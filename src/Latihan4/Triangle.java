@@ -7,7 +7,7 @@ package Latihan4;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class Triangle extends Shape{
     //Private member variables 

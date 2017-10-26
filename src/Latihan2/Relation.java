@@ -7,7 +7,7 @@ package Latihan2;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public interface Relation {
     public boolean isGreater(Object a, Object b);

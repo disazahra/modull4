@@ -7,7 +7,7 @@ package Latihan4;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class TestShape {
     public static void main (String[] args) {

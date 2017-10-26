@@ -7,7 +7,7 @@ package Latihan1;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class AeroPlan extends Vehicle {
     public void walk (){

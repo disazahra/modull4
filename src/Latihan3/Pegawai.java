@@ -7,7 +7,7 @@ package Latihan3;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class Pegawai {
     String nama;

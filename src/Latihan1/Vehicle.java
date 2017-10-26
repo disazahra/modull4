@@ -7,7 +7,7 @@ package Latihan1;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public abstract class Vehicle {
     public void function(){

@@ -7,7 +7,7 @@ package Latihan4;
 
 /**
  *
- * @author Daraprwtsr
+ * @author DISA
  */
 public class Rectangle extends Shape {
     //Private member variables 
